@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "e7XgIqoGQbmyOWRO9/RrOWDB7+d0DnsT4hApO0a5BrxJjD4cCaX6YyFIHOFilPEC0NwOGMXF/0+wV1xmGiVfPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Infra\\source\\repos\\TransferXml\\TransferXml\\TransferXml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Infra\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
